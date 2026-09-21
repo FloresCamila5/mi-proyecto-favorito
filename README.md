@@ -8,3 +8,6 @@ en el cual se puedan acceder a diferentes postres, cada postre incluiría receta
 e incluso enlaces de algún video para una guía visual. Además el proyecto ayudaria a negocios como pastelerias<br>
 a promocionarse, en este caso no se incluirian las recetas y en cuanto a enlaces se podrian poner la dirección del<br>
 lugar y sus redes o telefono.
+
+Nota: Hacer un menú solo para personas con intolerancia a la lactosa<br>
+para que sea un poquis mas inclusivo ....
